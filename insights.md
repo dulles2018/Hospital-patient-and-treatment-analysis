@@ -1,0 +1,4 @@
+- Most patients were treated for cardiovascular-related conditions.
+- Surgery contributes the highest cost in treatments.
+- Recovery rate is high (~66%), indicating effective treatment plans.
+- Dr. Smith handles the majority of patient load.
